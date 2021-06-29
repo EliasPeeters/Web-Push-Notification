@@ -1,0 +1,19 @@
+{
+  "name": "web-push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpush.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasPeeters/Web-Push-Notification.git"
+  },
+  "author": "Elias Peeters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasPeeters/Web-Push-Notification/issues"
+  },
+  "homepage": "https://github.com/EliasPeeters/Web-Push-Notification#readme"
+}
