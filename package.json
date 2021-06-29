@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EliasPeeters/Web-Push-Notification/issues"
   },
-  "homepage": "https://github.com/EliasPeeters/Web-Push-Notification#readme"
+  "homepage": "https://github.com/EliasPeeters/Web-Push-Notification#readme",
+  "dependencies": {
+    "web-push": "^3.4.5"
+  }
 }
